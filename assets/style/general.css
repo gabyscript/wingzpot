@@ -1,0 +1,15 @@
+:root {
+  --bg: #f1f1f1;
+  --hotpink: #e94057;
+  --orange: #f27121;
+  --black: #000;
+  --gradient: linear-gradient(35deg, var(--orange), var(--hotpink));
+
+}
+
+body {
+  margin: auto;
+  min-height: 100vh;
+  background: var(--bg);
+  
+}
