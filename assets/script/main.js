@@ -1,4 +1,4 @@
-const grupoTarjetas = ["🎷", "🎺", "🥁", "🎸",];
+const grupoTarjetas = ["Grand", "Major", "Minor", "Minor"];
 
 const totalTarjetas = grupoTarjetas.concat(grupoTarjetas).concat(grupoTarjetas);
 
