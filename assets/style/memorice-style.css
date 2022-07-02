@@ -1,3 +1,6 @@
+/* Resolución computadora */
+/* Responsivo a distintas pantallas (mobile-ipad-notebook-xl- xxl*/
+
 * {
     margin: 0;
     padding: 0;
@@ -17,20 +20,21 @@ main {
 }
 
 .mesa {
-    width: 80vw;
-    height: 60vh;
+    width: 100vw;
+    height: 80vh;
     display: flex; 
     flex-direction: row;
     flex-wrap: wrap; 
     align-items: center;
     justify-content: center;
+    gap: 2vw;
     
         
 }
 
 .tarjeta {
-    width: 10rem;
-    height: 13rem;
+    width: 12vw;
+    height: 35vh;
     margin: 0.25rem;
     border-radius: 0.3em;
     background-image: var(--gradient);
@@ -85,3 +89,4 @@ main {
     
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
+

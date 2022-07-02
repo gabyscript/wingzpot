@@ -38,7 +38,7 @@ function voltear() {
 
     /*if (cartasVolteadas.length > 1) {
         return;
-    } */
+    }*/
     this.classList.add("descubierta");
 
     descubiertas = document.querySelectorAll(".descubierta");
