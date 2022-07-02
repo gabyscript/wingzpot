@@ -1,4 +1,4 @@
-@media (max-width: 1200px) {
+@media (min-width: 993px) {
     
 * {
     margin: 0;
@@ -18,7 +18,7 @@ main {
 
 .mesa {
     width: 100vw;
-    height: 80vh;
+    height: 90vh;
     display: flex; 
     flex-direction: row;
     flex-wrap: wrap; 
@@ -27,9 +27,8 @@ main {
 }
 
 .tarjeta {
-    width: 138px;
-    height: 200px;
-    margin: 0.25rem;
+    width: 140px;
+    height: 205px;    
     border-radius: 0.3em;
     background-image: var(--gradient);
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
