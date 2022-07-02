@@ -32,7 +32,10 @@ main {
     height: 200px;
     margin: 3px;
     border-radius: 0.3em;
-    background-image: var(--gradient);
+    background-image: url("https://i.postimg.cc/fTfWys12/Whats-App-Image-2022-07-02-at-12-24-45-AM.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
     position: relative;
     transition: 0.3s;
