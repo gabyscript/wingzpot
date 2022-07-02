@@ -36,9 +36,10 @@ function voltear() {
 
     var cartasVolteadas = document.querySelectorAll(".descubierta");
 
+    /*
     if (cartasVolteadas.length > 1) {
         return;
-    }
+    }*/
     
     this.classList.add("descubierta");
 
