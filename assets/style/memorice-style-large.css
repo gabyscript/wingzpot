@@ -14,13 +14,15 @@
     }
 
     .mesa {
+        padding-top: 15vh;
         width: 100vw;
-        height: 65vh;    
+        height: 80vh;   
+        gap: 10px; 
     }
 
     .tarjeta {
-        width: 14vw;
-        height: 170px;    
+        width: 13.5vw;
+        height: 30vh;    
         border-radius: 0.3em;    
     }
 

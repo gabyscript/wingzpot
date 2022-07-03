@@ -19,5 +19,6 @@ body {
   background-image: url("https://i.postimg.cc/fTfWys12/Whats-App-Image-2022-07-02-at-12-24-45-AM.jpg") ;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
+

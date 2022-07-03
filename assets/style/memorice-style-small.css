@@ -1,18 +1,28 @@
 @media (max-width: 576px) {
+
+    body {
+        background-image: url("https://i.postimg.cc/Jzr6WbjY/1366-768-ordenador-port-til-medio.png");
+        background-position: center;  
+        background-attachment: fixed; 
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    } 
     
-main { 
-    width: 100vw;
-    height: 100vh;    
-}
+    main { 
+        width: 100vw;
+        height: 100vh;    
+    }
 
-.mesa {
-    width: 100vw;
-    height: 80vh; 
-    gap: 2vw;         
-}
+    .mesa {
+        padding-top: 16vh;
+        width: 100vw;
+        height: 80vh; 
+        gap: 10px;         
+    }
 
-.tarjeta {
-    width: 80px;
-    height: 120px;
-    border-radius: 0.3em;    
+    .tarjeta {
+        width: 12vw;
+        height: 25vh; 
+        border-radius: 0.3em;    
+    }
 }

@@ -42,6 +42,7 @@ function voltear() {
     }*/
     
     this.classList.add("descubierta");
+    this.classList.add("volteada");
 
     descubiertas = document.querySelectorAll(".descubierta");
 

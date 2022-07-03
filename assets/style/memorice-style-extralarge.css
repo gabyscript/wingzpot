@@ -14,7 +14,7 @@
     }
 
     .mesa {
-        padding-top: 20vh;
+        padding-top: 16vh;
         width: 100vw;
         height: 80vh;
         gap: 3vw;  
@@ -22,8 +22,8 @@
     }
 
     .tarjeta {
-        width: 12vw;
-        height: 32vh;    
+        width: 13.5vw;
+        height: 36.5vh;    
         border-radius: 0.3em;   
     }
 
