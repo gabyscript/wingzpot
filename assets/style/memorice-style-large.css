@@ -1,18 +1,27 @@
 @media (min-width: 768px){
+
+    body {
+        background-image: url("https://i.postimg.cc/rF6370h7/1440-900-escritorio-medio.png");
+        background-position: center;  
+        background-attachment: fixed; 
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }  
     
-main {
-    width: 100vw;
-    height: 100vh;   
-}
+    main {      
+        width: 100vw;
+        height: 100vh;   
+    }
 
-.mesa {
-    width: 100vw;
-    height: 80vh;    
-}
+    .mesa {
+        width: 100vw;
+        height: 65vh;    
+    }
 
-.tarjeta {
-    width: 128px;
-    height: 200px;
-    margin: 3px;
-    border-radius: 0.3em;    
+    .tarjeta {
+        width: 14vw;
+        height: 170px;    
+        border-radius: 0.3em;    
+    }
+
 }

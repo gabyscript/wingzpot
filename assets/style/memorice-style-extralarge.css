@@ -1,17 +1,30 @@
-@media (min-width: 993px) {
-    
-main {    
-    width: 100vw;
-    height: 100vh;    
-}
+@media (min-width: 999px) {
 
-.mesa {
-    min-width: 100vw;
-    min-height: 90vh;         
-}
+    body {
+        background-image: url("https://i.postimg.cc/q71kQMQz/Grand.png");
+        background-position: center;  
+        background-attachment: fixed; 
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }    
+        
+    main {    
+        width: 100vw;
+        height: 100vh;    
+    }
 
-.tarjeta {
-    width: 170px;
-    height: 200px;    
-    border-radius: 0.3em;   
+    .mesa {
+        padding-top: 20vh;
+        width: 100vw;
+        height: 80vh;
+        gap: 3vw;  
+                
+    }
+
+    .tarjeta {
+        width: 12vw;
+        height: 32vh;    
+        border-radius: 0.3em;   
+    }
+
 }
