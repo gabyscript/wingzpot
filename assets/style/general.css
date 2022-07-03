@@ -11,6 +11,9 @@
 body {
   margin: auto;
   min-height: 100vh;
-  background: var(--bg);
+  background-image: url("https://i.postimg.cc/vTxsH8GS/1920x855-Gates-of-Olympus-bg.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   
 }
