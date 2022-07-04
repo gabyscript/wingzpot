@@ -10,13 +10,13 @@
     
     main { 
         width: 100vw;
-        height: 100vh;    
+        height: 100vh;       
     }
 
     .mesa {
         padding-top: 16vh;
         width: 100vw;
-        height: 80vh; 
+        height: 60vh; 
         gap: 10px;         
     }
 
