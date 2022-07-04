@@ -21,8 +21,8 @@
     }
 
     .tarjeta {
-        width: 50px;
-        height: 90px; 
+        width: 14vw;
+        height: 22vh; 
         border-radius: 0.3em;    
     }
 }
