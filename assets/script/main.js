@@ -27,8 +27,6 @@ function repartirTarjetas (){
         
         mesa.appendChild(tarjeta); 
     });
-
-    
 }
 
 function voltear() {
@@ -44,9 +42,7 @@ function voltear() {
     this.classList.add("descubierta");
     this.classList.add("volteada");
 
-    descubiertas = document.querySelectorAll(".descubierta");
-
-    
+    descubiertas = document.querySelectorAll(".descubierta"); 
 
 }
 
