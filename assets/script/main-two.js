@@ -1,12 +1,12 @@
 const grupoTarjetas = [
     {nombre: "Grand",
-     src: "https://i.postimg.cc/K8J0GBnG/grand2final.png"   
+     src: "https://i.postimg.cc/yYZFp56C/GRAND-sin-borde.png"   
     },
     {nombre: "Major",
-    src: "https://i.postimg.cc/430wtGLj/major-final.png"
+    src: "https://i.postimg.cc/cHznX7VJ/major-sin-borde.png"
     },
     {nombre: "Minor",
-    src: "https://i.postimg.cc/Vsn4S3jH/minorfinal.png"
+    src: "https://i.postimg.cc/bYK6v1s8/minor-sin-borde.png"
     },
     {nombre: "Sinpremio",
     src: "https://i.postimg.cc/0y2CBjhL/Seleccionar-carta-2.png"

@@ -35,7 +35,7 @@ main {
     bottom: 0;
     transform: rotateY(-180deg);
     backface-visibility: hidden;
-    background-color: white;
+    /*background-color: white;*/
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
     border-radius: 0.3em;
     display: flex;
@@ -44,6 +44,8 @@ main {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; 
+    box-sizing: border-box;
+   
     
 }
 
